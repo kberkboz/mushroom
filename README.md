@@ -12,6 +12,6 @@ You can set mushroom up by running the installer package located in the files. O
 # Additional Information
 You can find the official documentation for mushroom in the files. The documentation will have all the language syntaxes and instructions on using mushroom. You can start discussions if you want to learn more. Or you can mail me: kberkboz@gmail.com
 # Developers
-the base code for mushroom is developed by [davidcallanan](https://github.com/davidcallanan
-the foremost features of mushroom (customizability and it's requirements) are develop by [K. Berk Bozkurt](https://github.com/kberkboz)
+the base code for mushroom is developed by [davidcallanan](https://github.com/davidcallanan)
+the foremost features of mushroom (customizability and it's requirements) are developed by [K. Berk Bozkurt](https://github.com/kberkboz)
  
