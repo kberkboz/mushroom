@@ -1,5 +1,5 @@
 # mushroom
-<strong>customizable programming language</strong>
+<strong>customizable programming language / özelleştirilebilir programlama dili</strong>
 <br>
 <br>
 This repository has language options for English(EN) and Turkish(TR)<br>
