@@ -3,7 +3,7 @@ mushroom programlamayı daha erişilebilir kılmak için tasarlanmış, python t
 # Neden mushroom?
 * Bir programlama dili öğrenmek zor olabilir, özellikle İngilizce bilmeyenler için. Yeni başlayan biri mushroom'u kendi diline çevirerek kullanabilir
 * Gelişmiş yazılımcılar ifade ve anahtar kelimeleri kısaltarak verimliliklerini arttırabilirler. 
-* Farklı programlama dili bilen insanlar, mushroom'u kendi ihtiyaçlarına göre özelleştirip daha sonra özelleştirilmiş kodlarını birbirlerinin özelleştirilmiş dillerine çevirerek, veya kodlarını ortak dilde birleştirebilirlerek(kabuk komutlarını kullanarak) bir araya gelip takımlar oluşturabilirler. 
+* Farklı programlama dili bilen insanlar, mushroom'u kendi ihtiyaçlarına göre özelleştirip daha sonra özelleştirilmiş kodlarını birbirlerinin özelleştirilmiş dillerine çevirerek, veya kodlarını ortak dilde birleştirerek (kabuk komutlarını kullanarak) bir araya gelip takımlar oluşturabilirler. 
 * Başkaları sadece eğlenmek için özelleştirilmiş bir programlama dili kullanmak isteyebilirler
 # mushroom için Visual Studio Code eklentisi
 Visual Studio Code Microsoft tarafından geliştirilen bir kod düzenleyici. mushroom'un Visual Studio Mağazasında sözdizimi belirtme eklentisi bulunuyor. Bu sözdizimi belirtme eklentisi de ihtiyaçlarınız doğrultusunda özelleştirilebiliyor. [Burada](https://marketplace.visualstudio.com/items?itemName=k-berkboz.mushroom) göz atabilirsiniz.
