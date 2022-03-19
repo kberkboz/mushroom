@@ -8,7 +8,7 @@ mushroom programlamayı daha erişilebilir kılmak için tasarlanmış, python t
 # mushroom için Visual Studio Code eklentisi
 Visual Studio Code Microsoft tarafından geliştirilen bir kod düzenleyici. mushroom'un Visual Studio Mağazasında söz dizimi belirtme eklentisi bulunuyor. Bu söz dizimi belirtme eklentisi de ihtiyaçlarınız doğrultusunda özelleştirilebiliyor. [Burada](https://marketplace.visualstudio.com/items?itemName=k-berkboz.mushroom) göz atabilirsiniz.
 # Kurulum
-mushroom'u kurmak için dosyalar arasında bulunan kurulum sihirbazını kullanabilrsiniz. Ya da mushroom'u .zip dosyası olarak indirebilirsiniz. Kurulan klasör, mushroom'u çalıştırmak için kullanacağınız .exe dosyasının yanında kaynak kodunu da içerecek. 
+mushroom'u kullanmak için .zip dosyasını ayıklayıp içindeki .exe dosyasını çalıştırabilirsiniz.
 # Ek Bilgi
 mushroom için resmi dokümantasyonu dosyaların arasında bulabilirsiniz. Bu dokümantasyon tüm dil sözdizimlerini ve mushroom'u kullanmak için gerekli talimatları içerir. Daha fazla öğrenmek için tartışmalar başlatabilirsiniz ya da bana mail atabilirsiniz: kberkboz@gmail.com
 # Geliştiriciler
