@@ -8,7 +8,7 @@ mushroom is a python based, open sourced, multi purpose customizable programming
 # Visual Studio Code Extension for mushroom
 Visual Studio Code is a code editor developed by Microsoft. mushroom has an extension for syntax highlighting on the Visual Studio Marketplace. The syntax highlighter can also be customized to your needs. You can check it out [here](https://marketplace.visualstudio.com/items?itemName=k-berkboz.mushroom).
 # Setup
-You can set mushroom up by running the installer package located in the files. Or you can download it as a .zip file. The folder installed will contain the .exe file you will use to run mushroom along with the source code. 
+You can set use mushroom by unzipping the .zip file and running the .exe file inside it. 
 # Additional Information
 You can find the official documentation for mushroom in the files. The documentation will have all the language syntaxes and instructions on using mushroom. You can start discussions if you want to learn more. Or you can mail me: kberkboz@gmail.com
 # Developers
